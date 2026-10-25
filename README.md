@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sahithiiii22/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sahithiiii22/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sahithiiii22/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Two Pointers
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Sahithiiii22/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sahithiiii22/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sahithiiii22/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sahithiiii22/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Counting
 |  |
 | ------- |
