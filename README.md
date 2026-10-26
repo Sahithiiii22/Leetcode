@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Sahithiiii22/Leetcode/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sahithiiii22/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sahithiiii22/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0561-array-partition](https://github.com/Sahithiiii22/Leetcode/tree/master/0561-array-partition) |
@@ -82,5 +83,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Sahithiiii22/Leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sahithiiii22/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
