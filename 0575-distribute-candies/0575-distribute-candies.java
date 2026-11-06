@@ -1,20 +1,11 @@
 class Solution {
     public int distributeCandies(int[] candyType) {
-        int n = candyType.length;
-        int count = 0;
-        for(int i=0;i<n;i++){
-            boolean found = false;
-            for(int j=0;j<i;j++){
-            if(candyType[i]==candyType[j]){
-               found = true;
-               break;
-            }
+        HashSet<Integer> set = new HashSet<>();
+
+        for (int i = 0; i < candyType.length; i++) {
+            set.add(candyType[i]);
         }
-        if(!found){
-            count++;
-        }
-        }
-        
-        return Math.min(count, n / 2);
+
+        return Math.min(set.size(), candyType.length / 2);
     }
 }
