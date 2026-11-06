@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Sahithiiii22/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Sahithiiii22/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Sahithiiii22/Leetcode/tree/master/0561-array-partition) |
+| [0575-distribute-candies](https://github.com/Sahithiiii22/Leetcode/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/Sahithiiii22/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Sahithiiii22/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sahithiiii22/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Sahithiiii22/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Sahithiiii22/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sahithiiii22/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0575-distribute-candies](https://github.com/Sahithiiii22/Leetcode/tree/master/0575-distribute-candies) |
 | [0904-fruit-into-baskets](https://github.com/Sahithiiii22/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sahithiiii22/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sahithiiii22/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
