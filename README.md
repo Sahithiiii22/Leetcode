@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sahithiiii22/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sahithiiii22/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sahithiiii22/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [4103-remove-elements-by-type-and-color](https://github.com/Sahithiiii22/Leetcode/tree/master/4103-remove-elements-by-type-and-color) |
 ## Two Pointers
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sahithiiii22/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [4103-remove-elements-by-type-and-color](https://github.com/Sahithiiii22/Leetcode/tree/master/4103-remove-elements-by-type-and-color) |
 ## String Matching
 |  |
 | ------- |
