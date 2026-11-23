@@ -45,12 +45,10 @@ class Solution {
         return r;
 
     }
-
     public int[] searchRange(int[] nums, int target) {
         int lm = left(nums,target);
         int rm = right(nums,target);
         int[] ans= {lm,rm};
         return ans;
-        
     }
 }
