@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sahithiiii22/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sahithiiii22/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sahithiiii22/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sahithiiii22/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [4103-remove-elements-by-type-and-color](https://github.com/Sahithiiii22/Leetcode/tree/master/4103-remove-elements-by-type-and-color) |
 ## Two Pointers
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Sahithiiii22/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sahithiiii22/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sahithiiii22/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sahithiiii22/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Sahithiiii22/Leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Dynamic Programming
 |  |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Sahithiiii22/Leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sahithiiii22/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Sahithiiii22/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sahithiiii22/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Prefix Sum
 |  |
 | ------- |
