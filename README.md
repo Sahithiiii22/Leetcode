@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Sahithiiii22/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sahithiiii22/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sahithiiii22/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/Sahithiiii22/Leetcode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Sahithiiii22/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Sahithiiii22/Leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sahithiiii22/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -187,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/Sahithiiii22/Leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Sahithiiii22/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/Sahithiiii22/Leetcode/tree/master/1873-calculate-special-bonus) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Sahithiiii22/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
